@@ -1,9 +1,0 @@
-.details {
-  &__place {
-    margin-bottom: 40px;
-
-    @include onIpad {
-      margin-bottom: 48px;
-    }
-  }
-}
